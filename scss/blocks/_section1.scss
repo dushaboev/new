@@ -1,0 +1,24 @@
+.section1{
+    width: 1440px;
+    height: 812px;
+    margin: 0 auto;
+    // border: 1px solid;
+      width: 1440px;
+      height: 800px;
+      background-image: url(/img/move.png);
+      margin-top: -100px;
+    .section1__move{
+        padding-left: 98px;
+        .section1__move-h1{
+            color: #FFC700;
+            font-size: 120px;
+            padding-top: 250px;
+        }
+        .section1__move-h2{
+            width: 891px;
+            color: white;
+            font-size: 300px;
+            margin-top: -180px;
+        }
+    }
+}
